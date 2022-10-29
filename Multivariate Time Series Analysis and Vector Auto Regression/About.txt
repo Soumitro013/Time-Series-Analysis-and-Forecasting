@@ -1,1 +1,1 @@
-Vector Auto Regression methon has been performed on a Multivariate Time Series dataset for forecasting.
+Vector Auto Regression method has been performed on a Multivariate Time Series dataset for forecasting.
